@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Michael Chang!
+- 👋 Hi, I’m Michael Chang
 - 🌱 I’m currently studying computer science at Simon Fraser University (SFU)
 
 <!---
